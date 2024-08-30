@@ -1,9 +1,9 @@
 # Tech News Fetcher
-Tech News Fetcher is a simple Python script that allows you to grab the latest tech headlines from CNN and FOX News. Additionally, if you have an OpenAI API key with available tokens, you can generate a very brief summary of the day's important news.
+Tech News Fetcher is a simple Python script that lets you grab the latest tech headlines from CNN and FOX News. Additionally, if you have an OpenAI API key with available tokens, you can generate a brief summary of the day's important news.
 
 ## Features
 - **Get Latest Tech Headlines:** Choose between CNN and FOX News to fetch the most recent tech news. 
-- **AI Summary:** With an OpenAI API key, you can get a brief, AI-powered sumamry of today's top news.
+- **AI Summary:** With an OpenAI API key, you can get a brief, AI-powered summary of today's top news.
 
 ## Dependencies
 Before you start, make sure you have the following installed:
@@ -34,4 +34,4 @@ python3 app.py
 3. **Get the AI Summary:** (*optional*) If you have OpenAI tokens, answer `Y` to get a short summary of the day's important news.
 
 ## License
-This project is open-source and available under the MIT License. See [LICENSE](https://github.com/nokia/RED/blob/main/LICENSE) for details.
+This project is open-source and available under the MIT License. See [LICENSE](https://github.com/Skittysh/TechNewsFetcher/blob/main/LICENSE) for details.
